@@ -1,66 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-
-    <meta charset="utf-8">
-<title>First Post</title>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-<link href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/assets/css/styles.css">
-
-  </head>
-  <body>
-    <div id="page-wrap">
-    <!-- Static navbar -->
-<nav class="navbar navbar-default">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-      </div>
-      <div id="navbar" class="navbar-collapse navbar-center collapse">
-        <ul class="nav navbar-nav">
-            
-            <li><a class ="btn" href="/" >
-                Home
-            </a></li>
-            
-            <li><a class ="btn" href="/about.html" >
-                About
-            </a></li>
-            
-            <li><a class ="btn" href="/blog.html" >
-                Blog
-            </a></li>
-            
-            <li><a class ="btn" href="/projects.html" >
-                Projects
-            </a></li>
-            
-            <li><a class ="btn" href="/music.html" >
-                Music
-            </a></li>
-            
-        </ul>
-      </div>
-    </div>
-</nav>
-
-
-    <div id="page-text-area">
-
-    <h1>First Post</h1>
-<p>
-    15 Sep 2020
-    
-    
-  </p>
-<p>As my first actual project, I am developing and putting up this personal website.</p>
+I"X	<p>As my first actual project, I am developing and putting up this personal website.</p>
 
 <p>On this website, I will be putting up various things I do that I want to make publicly visible. At the moment, this primarily includes three things - my computer science projects, my music projects, and a blog. In the future, this may expand to include other things.</p>
 
@@ -77,10 +15,4 @@
 <p>These reasons combined are what push me to make this website. I want to get this up as soon as possible so it is there for my access whenever I need it, and so that I have more time to gain the educational benefits of working web development and to make more posts on my blog.</p>
 
 <p>Until next time!</p>
-
-
-    </div>
-    
-  </div>
-  </body>
-</html>
+:ET

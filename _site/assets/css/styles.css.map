@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";",
-		"\r\n"
+		"html, body {\r\n    background-color: rgb(241, 240, 255);\r\n    width: 100%;\r\n    height: 100%;\r\n}\r\n\r\n#page-wrap {\r\n    width: 800px;\r\n    margin: 0 auto;\r\n    background-color: rgba(255, 255, 255, 0.6);\r\n}\r\n\r\n#page-text-area {\r\n    padding: 10px 30px;\r\n}\r\n\r\n.navbar .navbar-nav {\r\n    display: inline-block;\r\n    text-align: center;\r\n    float: none;\r\n    vertical-align: top;\r\n  }\r\n"
 	],
 	"names": [],
-	"mappings": ""
+	"mappings": "ACAA,AAAA,IAAI,EAAE,IAAI,CAAC,EACP,gBAAgB,EAAE,OAAkB,EACpC,KAAK,EAAE,IAAI,EACX,MAAM,EAAE,IAAI,GACf;;AAED,AAAA,UAAU,CAAC,EACP,KAAK,EAAE,KAAK,EACZ,MAAM,EAAE,MAAM,EACd,gBAAgB,EAAE,wBAAwB,GAC7C;;AAED,AAAA,eAAe,CAAC,EACZ,OAAO,EAAE,SAAS,GACrB;;AAED,AAAA,OAAO,CAAC,WAAW,CAAC,EAChB,OAAO,EAAE,YAAY,EACrB,UAAU,EAAE,MAAM,EAClB,KAAK,EAAE,IAAI,EACX,cAAc,EAAE,GAAG,GACpB"
 }

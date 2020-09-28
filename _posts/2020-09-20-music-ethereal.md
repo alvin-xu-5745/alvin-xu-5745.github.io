@@ -1,11 +1,8 @@
 ---
 layout: post
-title: First Track
+title: First Track Release
 permalink: /first-track/
 ---
-
-# First Track Release - Ethereal Resolute Daybreak
-
 I have posted my first produced track <a href="https://www.youtube.com/watch?v=hDeySoLGZW0" target="_blank">here</a>. I did technically make something months ago, but that was more of me following along with a tutorial. This was my first purely original creation.
 
 Overall, I learned a lot from working through this. I'll split my discussion over this piece into the three parts of the song.
