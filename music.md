@@ -11,4 +11,4 @@ My youtube channel can be found <a href="https://www.youtube.com/channel/UCVA5pm
 
 At the moment, I am working on a collaborative project with a small group of other composers, expected for a December release. I will also release my part of the project independently on my channel.
 
-I also have another collaborative project expected to release sooner.
+I also have another collaborative project expected.
